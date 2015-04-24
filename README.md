@@ -1,2 +1,2 @@
-# data_science
-For Coursera class(es)
+# datasciencecoursera
+## for Coursera class(es)
